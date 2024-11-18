@@ -42,14 +42,18 @@ In this Arduino  Relay Control Circuit we have used Arduino to control the relay
 ## PROGRAM:
 <img src="https://github.com/user-attachments/assets/ecd38424-54bb-4590-b2ea-a43625f08233" width="600" height="500"/>
 
+
 ## CIRCUIT DIAGRAM:
 <img src="https://github.com/user-attachments/assets/a6dd1746-d5f2-4810-a84e-0150661022b8" width="600" height="500"/>
 
 ## OUTPUT:
+
 ### Lamp off:
+
 <img src="https://github.com/user-attachments/assets/6ecde2d5-53af-43f2-8d79-26dde0d74973" width="600" height="500"/>
 
 ### Lamp on:
+
 <img src="https://github.com/user-attachments/assets/91be19e3-8839-43e7-8cbc-cf5be94e57b6" width="600" height="500"/>
 
 
