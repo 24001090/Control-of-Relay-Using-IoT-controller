@@ -52,5 +52,6 @@ In this Arduino  Relay Control Circuit we have used Arduino to control the relay
 
 ### Lamp on:
 <img src="https://github.com/user-attachments/assets/91be19e3-8839-43e7-8cbc-cf5be94e57b6" width="600" height="500"/>
+
 ## RESULT:
 Thus the relay is controlled using Arduino controller.
