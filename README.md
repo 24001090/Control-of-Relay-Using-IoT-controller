@@ -1,7 +1,7 @@
 ### NAME-POOJA PRIYA.B
 ### REG NO-24001090
 
-# CONTROL RELAY USING IOT CONTROLLER
+# EXP-2 CONTROL RELAY USING IOT CONTROLLER
 ##  AIM:
 To control the Relay using Arduino controller
 
